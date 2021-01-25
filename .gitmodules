@@ -1,3 +1,7 @@
 [submodule "web_collect"]
 	path = web_collect
 	url = https://github.com/mrbelgacem/web_collect.git
+[submodule "image_organization"]
+	path = image_organization
+	url = https://github.com/mrbelgacem/image_organization
+
