@@ -5,3 +5,6 @@
 	path = image_organization
 	url = https://github.com/mrbelgacem/image_organization
 
+[submodule "image_analysis"]
+	path = image_analysis
+	url = https://github.com:mrbelgacem/image_analysis
