@@ -1,0 +1,3 @@
+[submodule "web_collect"]
+	path = web_collect
+	url = https://github.com/mrbelgacem/web_collect.git
